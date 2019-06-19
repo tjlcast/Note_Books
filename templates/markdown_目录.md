@@ -22,3 +22,8 @@
 #### 1.相似度页面
 
 ![相似度页面](http://www.baidu.com)
+
+---
++ 参考
+* 参考
+![avatar](https://upload-images.jianshu.io/upload_images/8554214-110721724e95b75d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
